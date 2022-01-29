@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
 import data from "../../libs/articles";
 import Title from "../Title";
 import Article from "../Article";
