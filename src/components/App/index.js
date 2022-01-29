@@ -22,6 +22,7 @@ function App() {
               key={nanoid()}
               title={article.title}
               paragraphs={article.paragraphs}
+              comments={article.comments}
             />
           );
         })}
