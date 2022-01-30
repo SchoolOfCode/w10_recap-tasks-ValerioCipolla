@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { nanoid } from "nanoid";
 import Paragraph from "../Paragraph";
 import Comment from "../Comment";
+import { Button } from "antd";
+import "antd/dist/antd.css";
 import * as css from "./article.module.css";
 
 const Article = ({ title, paragraphs, comments }) => {
@@ -19,13 +21,13 @@ const Article = ({ title, paragraphs, comments }) => {
           return <Paragraph key={nanoid()} text={p} />;
         })}
         <div className={css.likeBar}>
-        <button className="like-button" onClick={handleClick}>
-          Like 👍
-        </button>
-        <span> Number of likes: {likes}</span>
+          <Button type="primary" onClick={handleClick}>
+            Like 👍
+          </Button>
+          <span> Number of likes: {likes}</span>
         </div>
       </section>
-      <section className="comment-section">
+      <section>
         {comments.map((comment) => {
           return (
             <Comment key={nanoid()} name={comment.name} text={comment.text} />

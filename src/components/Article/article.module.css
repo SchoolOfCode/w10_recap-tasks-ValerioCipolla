@@ -2,7 +2,9 @@
 
 .article {
   font-family: "Roboto Slab", serif;
-  color: black;
+  border: 2px solid rebeccapurple;
+  margin: 1rem;
+  padding: 0.5rem;
 }
 
 .likeBar {

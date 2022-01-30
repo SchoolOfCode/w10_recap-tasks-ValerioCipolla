@@ -1,0 +1,10 @@
+.comment {
+  background-color: lightgray;
+  color: black;
+}
+
+.comment h4 {
+  color: purple;
+  font-weight: 600;
+  font-size: 1rem;
+}
