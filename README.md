@@ -27,6 +27,7 @@ In this repository, you'll find an app that uses content from the array of posts
 👉 Use Auth0 to add simple **authentication** to your app so that users must be logged in to view the articles.
 
 👉 **Deploy** your front end application, and include the URL in the readme.
+
 link to app -> https://quizzical-colden-b7d8b4.netlify.app/
 
 👉 Create **documentation** for your app, and refactor this readme with your documentation. You can use a tool like [readme.so](https://readme.so/editor).
