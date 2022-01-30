@@ -1,3 +1,7 @@
+# WikiPigeon
+
+A simple one-page App that allows you to signup/login and read amazing pigeon-related articles
+
 ## Authors
 
 - [@valeriocipolla](https://github.com/ValerioCipolla)
@@ -7,8 +11,6 @@
 - [WikiPigeon](https://quizzical-colden-b7d8b4.netlify.app/)
 
 ## Original tasks:
-
-## Tasks
 
 In this repository, you'll find an app that uses content from the array of posts in [libs/articles](task2/src/libs/articles.js). It's currently all in one component.
 
