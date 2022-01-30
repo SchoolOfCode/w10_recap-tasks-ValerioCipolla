@@ -1,4 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6838619&assignment_repo_type=AssignmentRepo)
+
 # Weekly Recap Tasks
 
 ## Feedback
@@ -26,6 +27,7 @@ In this repository, you'll find an app that uses content from the array of posts
 👉 Use Auth0 to add simple **authentication** to your app so that users must be logged in to view the articles.
 
 👉 **Deploy** your front end application, and include the URL in the readme.
+link to app -> https://quizzical-colden-b7d8b4.netlify.app/
 
 👉 Create **documentation** for your app, and refactor this readme with your documentation. You can use a tool like [readme.so](https://readme.so/editor).
 
